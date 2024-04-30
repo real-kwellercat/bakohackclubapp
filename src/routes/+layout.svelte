@@ -11,7 +11,7 @@
 	</main>
 
 	<footer>
-		Source code coming soon - Copyright 2024 Lucas R - hiiii :3c
+		<a href="https://git.bako.hackclub.app/bako/bako.hackclub.app">read-only src mirror</a> - <a href="https://github.com/real-kwellercat/bakohackclubapp">open issues on this one</a> - Copyright 2024 Lucas R - hiiii :3c
 	</footer>
 </div>
 
